@@ -1,0 +1,462 @@
+{
+    "model_name": "CNN Caltech-101",
+    "dataset": "Subset",
+    "n_samples_tested": 50,
+    "accuracy": 0.0,
+    "average_confidence": 45.49171005189419,
+    "correct_predictions": 0,
+    "incorrect_predictions": 50,
+    "predictions": [
+        {
+            "image_idx": 592,
+            "true_label": 2,
+            "true_class": "Class_2",
+            "predicted_label": 1,
+            "predicted_class": "Class_1",
+            "confidence": 0.99782395362854,
+            "is_correct": false
+        },
+        {
+            "image_idx": 7342,
+            "true_label": 88,
+            "true_class": "Class_88",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "confidence": 0.3163382411003113,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6438,
+            "true_label": 72,
+            "true_class": "Class_72",
+            "predicted_label": 71,
+            "predicted_class": "Class_71",
+            "confidence": 0.9334324598312378,
+            "is_correct": false
+        },
+        {
+            "image_idx": 245,
+            "true_label": 1,
+            "true_class": "Class_1",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "confidence": 0.9351789951324463,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4985,
+            "true_label": 47,
+            "true_class": "Class_47",
+            "predicted_label": 46,
+            "predicted_class": "Class_46",
+            "confidence": 0.6275522708892822,
+            "is_correct": false
+        },
+        {
+            "image_idx": 195,
+            "true_label": 1,
+            "true_class": "Class_1",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "confidence": 0.97683185338974,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2626,
+            "true_label": 12,
+            "true_class": "Class_12",
+            "predicted_label": 53,
+            "predicted_class": "Class_53",
+            "confidence": 0.0480552613735199,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1829,
+            "true_label": 5,
+            "true_class": "Class_5",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "confidence": 0.9986684322357178,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3065,
+            "true_label": 18,
+            "true_class": "Class_18",
+            "predicted_label": 51,
+            "predicted_class": "Class_51",
+            "confidence": 0.1515013575553894,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3020,
+            "true_label": 17,
+            "true_class": "Class_17",
+            "predicted_label": 93,
+            "predicted_class": "Class_93",
+            "confidence": 0.06613686680793762,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4406,
+            "true_label": 38,
+            "true_class": "Class_38",
+            "predicted_label": 74,
+            "predicted_class": "Class_74",
+            "confidence": 0.0891052633523941,
+            "is_correct": false
+        },
+        {
+            "image_idx": 223,
+            "true_label": 1,
+            "true_class": "Class_1",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "confidence": 0.7479055523872375,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4963,
+            "true_label": 47,
+            "true_class": "Class_47",
+            "predicted_label": 54,
+            "predicted_class": "Class_54",
+            "confidence": 0.1538713127374649,
+            "is_correct": false
+        },
+        {
+            "image_idx": 8215,
+            "true_label": 100,
+            "true_class": "Class_100",
+            "predicted_label": 15,
+            "predicted_class": "Class_15",
+            "confidence": 0.12644177675247192,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2908,
+            "true_label": 16,
+            "true_class": "Class_16",
+            "predicted_label": 15,
+            "predicted_class": "Class_15",
+            "confidence": 0.44643062353134155,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1043,
+            "true_label": 3,
+            "true_class": "Class_3",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "confidence": 0.9600287079811096,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5701,
+            "true_label": 58,
+            "true_class": "Class_58",
+            "predicted_label": 46,
+            "predicted_class": "Class_46",
+            "confidence": 0.08742168545722961,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5958,
+            "true_label": 62,
+            "true_class": "Class_62",
+            "predicted_label": 22,
+            "predicted_class": "Class_22",
+            "confidence": 0.11581847816705704,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2258,
+            "true_label": 5,
+            "true_class": "Class_5",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "confidence": 0.9997259974479675,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4653,
+            "true_label": 42,
+            "true_class": "Class_42",
+            "predicted_label": 40,
+            "predicted_class": "Class_40",
+            "confidence": 0.14792141318321228,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3479,
+            "true_label": 23,
+            "true_class": "Class_23",
+            "predicted_label": 22,
+            "predicted_class": "Class_22",
+            "confidence": 0.31128326058387756,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1441,
+            "true_label": 4,
+            "true_class": "Class_4",
+            "predicted_label": 3,
+            "predicted_class": "Class_3",
+            "confidence": 0.45572200417518616,
+            "is_correct": false
+        },
+        {
+            "image_idx": 7819,
+            "true_label": 94,
+            "true_class": "Class_94",
+            "predicted_label": 93,
+            "predicted_class": "Class_93",
+            "confidence": 0.6541924476623535,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4099,
+            "true_label": 34,
+            "true_class": "Class_34",
+            "predicted_label": 70,
+            "predicted_class": "Class_70",
+            "confidence": 0.11799915134906769,
+            "is_correct": false
+        },
+        {
+            "image_idx": 8114,
+            "true_label": 98,
+            "true_class": "Class_98",
+            "predicted_label": 97,
+            "predicted_class": "Class_97",
+            "confidence": 0.46863311529159546,
+            "is_correct": false
+        },
+        {
+            "image_idx": 902,
+            "true_label": 3,
+            "true_class": "Class_3",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "confidence": 0.4316423535346985,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2871,
+            "true_label": 15,
+            "true_class": "Class_15",
+            "predicted_label": 38,
+            "predicted_class": "Class_38",
+            "confidence": 0.1661636233329773,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5409,
+            "true_label": 54,
+            "true_class": "Class_54",
+            "predicted_label": 1,
+            "predicted_class": "Class_1",
+            "confidence": 0.11951950192451477,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6137,
+            "true_label": 65,
+            "true_class": "Class_65",
+            "predicted_label": 64,
+            "predicted_class": "Class_64",
+            "confidence": 0.924957811832428,
+            "is_correct": false
+        },
+        {
+            "image_idx": 7322,
+            "true_label": 87,
+            "true_class": "Class_87",
+            "predicted_label": 93,
+            "predicted_class": "Class_93",
+            "confidence": 0.08160146325826645,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4001,
+            "true_label": 32,
+            "true_class": "Class_32",
+            "predicted_label": 31,
+            "predicted_class": "Class_31",
+            "confidence": 0.9647627472877502,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2617,
+            "true_label": 12,
+            "true_class": "Class_12",
+            "predicted_label": 11,
+            "predicted_class": "Class_11",
+            "confidence": 0.3332095146179199,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6194,
+            "true_label": 66,
+            "true_class": "Class_66",
+            "predicted_label": 83,
+            "predicted_class": "Class_83",
+            "confidence": 0.11980145424604416,
+            "is_correct": false
+        },
+        {
+            "image_idx": 7573,
+            "true_label": 92,
+            "true_class": "Class_92",
+            "predicted_label": 91,
+            "predicted_class": "Class_91",
+            "confidence": 0.3447149395942688,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2711,
+            "true_label": 13,
+            "true_class": "Class_13",
+            "predicted_label": 20,
+            "predicted_class": "Class_20",
+            "confidence": 0.22409693896770477,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5798,
+            "true_label": 59,
+            "true_class": "Class_59",
+            "predicted_label": 3,
+            "predicted_class": "Class_3",
+            "confidence": 0.18618232011795044,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6993,
+            "true_label": 82,
+            "true_class": "Class_82",
+            "predicted_label": 12,
+            "predicted_class": "Class_12",
+            "confidence": 0.27956342697143555,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6165,
+            "true_label": 66,
+            "true_class": "Class_66",
+            "predicted_label": 38,
+            "predicted_class": "Class_38",
+            "confidence": 0.07262206077575684,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1324,
+            "true_label": 3,
+            "true_class": "Class_3",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "confidence": 0.9990478157997131,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4371,
+            "true_label": 38,
+            "true_class": "Class_38",
+            "predicted_label": 22,
+            "predicted_class": "Class_22",
+            "confidence": 0.11401740461587906,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3175,
+            "true_label": 19,
+            "true_class": "Class_19",
+            "predicted_label": 18,
+            "predicted_class": "Class_18",
+            "confidence": 0.9859483242034912,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4166,
+            "true_label": 35,
+            "true_class": "Class_35",
+            "predicted_label": 20,
+            "predicted_class": "Class_20",
+            "confidence": 0.18279306590557098,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4177,
+            "true_label": 35,
+            "true_class": "Class_35",
+            "predicted_label": 30,
+            "predicted_class": "Class_30",
+            "confidence": 0.06967630237340927,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2069,
+            "true_label": 5,
+            "true_class": "Class_5",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "confidence": 0.9736142754554749,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6632,
+            "true_label": 75,
+            "true_class": "Class_75",
+            "predicted_label": 54,
+            "predicted_class": "Class_54",
+            "confidence": 0.265617311000824,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5702,
+            "true_label": 58,
+            "true_class": "Class_58",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "confidence": 0.07923971116542816,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1593,
+            "true_label": 5,
+            "true_class": "Class_5",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "confidence": 0.9995542168617249,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4901,
+            "true_label": 47,
+            "true_class": "Class_47",
+            "predicted_label": 46,
+            "predicted_class": "Class_46",
+            "confidence": 0.5221288204193115,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6213,
+            "true_label": 66,
+            "true_class": "Class_66",
+            "predicted_label": 3,
+            "predicted_class": "Class_3",
+            "confidence": 0.4009523093700409,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1272,
+            "true_label": 3,
+            "true_class": "Class_3",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "confidence": 0.9704068303108215,
+            "is_correct": false
+        }
+    ],
+    "timestamp": "2025-11-30T13:22:59.793329"
+}

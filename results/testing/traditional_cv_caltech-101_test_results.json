@@ -1,0 +1,464 @@
+{
+    "model_name": "Traditional CV Caltech-101",
+    "dataset": "Caltech101",
+    "n_samples_tested": 50,
+    "accuracy": 50.0,
+    "average_features": 190.8,
+    "min_features": 83,
+    "max_features": 202,
+    "correct_predictions": 25,
+    "incorrect_predictions": 25,
+    "predictions": [
+        {
+            "image_idx": 2348,
+            "true_label": 6,
+            "true_class": "Class_6",
+            "predicted_label": 6,
+            "predicted_class": "Class_6",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 1462,
+            "true_label": 3,
+            "true_class": "Class_3",
+            "predicted_label": 3,
+            "predicted_class": "Class_3",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 908,
+            "true_label": 2,
+            "true_class": "Class_2",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 7330,
+            "true_label": 87,
+            "true_class": "Class_87",
+            "predicted_label": 87,
+            "predicted_class": "Class_87",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3297,
+            "true_label": 20,
+            "true_class": "Class_20",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 832,
+            "true_label": 2,
+            "true_class": "Class_2",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 7328,
+            "true_label": 87,
+            "true_class": "Class_87",
+            "predicted_label": 87,
+            "predicted_class": "Class_87",
+            "n_features": 129,
+            "is_correct": true
+        },
+        {
+            "image_idx": 811,
+            "true_label": 2,
+            "true_class": "Class_2",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 8043,
+            "true_label": 95,
+            "true_class": "Class_95",
+            "predicted_label": 92,
+            "predicted_class": "Class_92",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5113,
+            "true_label": 49,
+            "true_class": "Class_49",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4373,
+            "true_label": 37,
+            "true_class": "Class_37",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2071,
+            "true_label": 4,
+            "true_class": "Class_4",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 93,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3002,
+            "true_label": 16,
+            "true_class": "Class_16",
+            "predicted_label": 88,
+            "predicted_class": "Class_88",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4141,
+            "true_label": 33,
+            "true_class": "Class_33",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1748,
+            "true_label": 4,
+            "true_class": "Class_4",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 7051,
+            "true_label": 82,
+            "true_class": "Class_82",
+            "predicted_label": 82,
+            "predicted_class": "Class_82",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2603,
+            "true_label": 11,
+            "true_class": "Class_11",
+            "predicted_label": 11,
+            "predicted_class": "Class_11",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 374,
+            "true_label": 0,
+            "true_class": "Class_0",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 400,
+            "true_label": 0,
+            "true_class": "Class_0",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2890,
+            "true_label": 14,
+            "true_class": "Class_14",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 201,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6480,
+            "true_label": 72,
+            "true_class": "Class_72",
+            "predicted_label": 12,
+            "predicted_class": "Class_12",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4593,
+            "true_label": 40,
+            "true_class": "Class_40",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3481,
+            "true_label": 22,
+            "true_class": "Class_22",
+            "predicted_label": 22,
+            "predicted_class": "Class_22",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5198,
+            "true_label": 50,
+            "true_class": "Class_50",
+            "predicted_label": 93,
+            "predicted_class": "Class_93",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5388,
+            "true_label": 53,
+            "true_class": "Class_53",
+            "predicted_label": 53,
+            "predicted_class": "Class_53",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 6853,
+            "true_label": 78,
+            "true_class": "Class_78",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 160,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1399,
+            "true_label": 2,
+            "true_class": "Class_2",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 471,
+            "true_label": 1,
+            "true_class": "Class_1",
+            "predicted_label": 1,
+            "predicted_class": "Class_1",
+            "n_features": 189,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4247,
+            "true_label": 35,
+            "true_class": "Class_35",
+            "predicted_label": 1,
+            "predicted_class": "Class_1",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4033,
+            "true_label": 32,
+            "true_class": "Class_32",
+            "predicted_label": 92,
+            "predicted_class": "Class_92",
+            "n_features": 83,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1876,
+            "true_label": 4,
+            "true_class": "Class_4",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 150,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3916,
+            "true_label": 30,
+            "true_class": "Class_30",
+            "predicted_label": 30,
+            "predicted_class": "Class_30",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5128,
+            "true_label": 49,
+            "true_class": "Class_49",
+            "predicted_label": 52,
+            "predicted_class": "Class_52",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2707,
+            "true_label": 12,
+            "true_class": "Class_12",
+            "predicted_label": 11,
+            "predicted_class": "Class_11",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3264,
+            "true_label": 20,
+            "true_class": "Class_20",
+            "predicted_label": 20,
+            "predicted_class": "Class_20",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3390,
+            "true_label": 22,
+            "true_class": "Class_22",
+            "predicted_label": 1,
+            "predicted_class": "Class_1",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 1750,
+            "true_label": 4,
+            "true_class": "Class_4",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2786,
+            "true_label": 13,
+            "true_class": "Class_13",
+            "predicted_label": 0,
+            "predicted_class": "Class_0",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4988,
+            "true_label": 46,
+            "true_class": "Class_46",
+            "predicted_label": 1,
+            "predicted_class": "Class_1",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4171,
+            "true_label": 34,
+            "true_class": "Class_34",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 131,
+            "is_correct": false
+        },
+        {
+            "image_idx": 8114,
+            "true_label": 97,
+            "true_class": "Class_97",
+            "predicted_label": 97,
+            "predicted_class": "Class_97",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3472,
+            "true_label": 22,
+            "true_class": "Class_22",
+            "predicted_label": 78,
+            "predicted_class": "Class_78",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 7031,
+            "true_label": 81,
+            "true_class": "Class_81",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "n_features": 202,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5413,
+            "true_label": 53,
+            "true_class": "Class_53",
+            "predicted_label": 53,
+            "predicted_class": "Class_53",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5937,
+            "true_label": 61,
+            "true_class": "Class_61",
+            "predicted_label": 53,
+            "predicted_class": "Class_53",
+            "n_features": 201,
+            "is_correct": false
+        },
+        {
+            "image_idx": 6192,
+            "true_label": 65,
+            "true_class": "Class_65",
+            "predicted_label": 65,
+            "predicted_class": "Class_65",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5233,
+            "true_label": 50,
+            "true_class": "Class_50",
+            "predicted_label": 50,
+            "predicted_class": "Class_50",
+            "n_features": 200,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4092,
+            "true_label": 33,
+            "true_class": "Class_33",
+            "predicted_label": 4,
+            "predicted_class": "Class_4",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2412,
+            "true_label": 7,
+            "true_class": "Class_7",
+            "predicted_label": 14,
+            "predicted_class": "Class_14",
+            "n_features": 200,
+            "is_correct": false
+        },
+        {
+            "image_idx": 800,
+            "true_label": 2,
+            "true_class": "Class_2",
+            "predicted_label": 2,
+            "predicted_class": "Class_2",
+            "n_features": 201,
+            "is_correct": true
+        }
+    ],
+    "timestamp": "2025-11-30T13:23:04.787605"
+}

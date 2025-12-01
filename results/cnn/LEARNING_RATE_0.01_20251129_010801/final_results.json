@@ -1,0 +1,11 @@
+{
+    "best_epoch": 27,
+    "best_val_acc": 81.1,
+    "test_loss": 0.8443159582853317,
+    "test_acc": 80.04,
+    "training_time_minutes": 449.58324806292853,
+    "config": {
+        "EPOCHS": 30,
+        "LEARNING_RATE": 0.01
+    }
+}

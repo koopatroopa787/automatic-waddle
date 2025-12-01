@@ -1,0 +1,462 @@
+{
+    "model_name": "CNN CIFAR-10",
+    "dataset": "CIFAR10",
+    "n_samples_tested": 50,
+    "accuracy": 76.0,
+    "average_confidence": 90.79215759038925,
+    "correct_predictions": 38,
+    "incorrect_predictions": 12,
+    "predictions": [
+        {
+            "image_idx": 7528,
+            "true_label": 5,
+            "true_class": "dog",
+            "predicted_label": 5,
+            "predicted_class": "dog",
+            "confidence": 0.9999964237213135,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3729,
+            "true_label": 8,
+            "true_class": "ship",
+            "predicted_label": 8,
+            "predicted_class": "ship",
+            "confidence": 0.9999990463256836,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2315,
+            "true_label": 2,
+            "true_class": "bird",
+            "predicted_label": 2,
+            "predicted_class": "bird",
+            "confidence": 0.9995538592338562,
+            "is_correct": true
+        },
+        {
+            "image_idx": 774,
+            "true_label": 0,
+            "true_class": "airplane",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.9666866660118103,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2292,
+            "true_label": 5,
+            "true_class": "dog",
+            "predicted_label": 3,
+            "predicted_class": "cat",
+            "confidence": 0.6155222654342651,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2147,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.9997468590736389,
+            "is_correct": true
+        },
+        {
+            "image_idx": 9294,
+            "true_label": 6,
+            "true_class": "frog",
+            "predicted_label": 9,
+            "predicted_class": "truck",
+            "confidence": 0.6775732636451721,
+            "is_correct": false
+        },
+        {
+            "image_idx": 9152,
+            "true_label": 4,
+            "true_class": "deer",
+            "predicted_label": 4,
+            "predicted_class": "deer",
+            "confidence": 0.9955447912216187,
+            "is_correct": true
+        },
+        {
+            "image_idx": 9790,
+            "true_label": 8,
+            "true_class": "ship",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.4938894808292389,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3260,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 1.0,
+            "is_correct": true
+        },
+        {
+            "image_idx": 8265,
+            "true_label": 0,
+            "true_class": "airplane",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.9882936477661133,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2248,
+            "true_label": 0,
+            "true_class": "airplane",
+            "predicted_label": 8,
+            "predicted_class": "ship",
+            "confidence": 0.9986883997917175,
+            "is_correct": false
+        },
+        {
+            "image_idx": 3590,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.9999998807907104,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4105,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 1.0,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3761,
+            "true_label": 0,
+            "true_class": "airplane",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.9600039720535278,
+            "is_correct": true
+        },
+        {
+            "image_idx": 510,
+            "true_label": 5,
+            "true_class": "dog",
+            "predicted_label": 5,
+            "predicted_class": "dog",
+            "confidence": 0.9998244643211365,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2638,
+            "true_label": 4,
+            "true_class": "deer",
+            "predicted_label": 4,
+            "predicted_class": "deer",
+            "confidence": 0.8055885434150696,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5668,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.9999997615814209,
+            "is_correct": true
+        },
+        {
+            "image_idx": 1216,
+            "true_label": 8,
+            "true_class": "ship",
+            "predicted_label": 1,
+            "predicted_class": "automobile",
+            "confidence": 0.5963667035102844,
+            "is_correct": false
+        },
+        {
+            "image_idx": 5454,
+            "true_label": 0,
+            "true_class": "airplane",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.9256307482719421,
+            "is_correct": true
+        },
+        {
+            "image_idx": 8142,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.9989878535270691,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5944,
+            "true_label": 2,
+            "true_class": "bird",
+            "predicted_label": 2,
+            "predicted_class": "bird",
+            "confidence": 0.9931744933128357,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2304,
+            "true_label": 6,
+            "true_class": "frog",
+            "predicted_label": 6,
+            "predicted_class": "frog",
+            "confidence": 0.999992847442627,
+            "is_correct": true
+        },
+        {
+            "image_idx": 8952,
+            "true_label": 3,
+            "true_class": "cat",
+            "predicted_label": 6,
+            "predicted_class": "frog",
+            "confidence": 0.965739369392395,
+            "is_correct": false
+        },
+        {
+            "image_idx": 8865,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.999996542930603,
+            "is_correct": true
+        },
+        {
+            "image_idx": 765,
+            "true_label": 2,
+            "true_class": "bird",
+            "predicted_label": 2,
+            "predicted_class": "bird",
+            "confidence": 0.9999769926071167,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4354,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.9986028075218201,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4530,
+            "true_label": 5,
+            "true_class": "dog",
+            "predicted_label": 5,
+            "predicted_class": "dog",
+            "confidence": 0.9945312142372131,
+            "is_correct": true
+        },
+        {
+            "image_idx": 9806,
+            "true_label": 8,
+            "true_class": "ship",
+            "predicted_label": 8,
+            "predicted_class": "ship",
+            "confidence": 0.9999984502792358,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4036,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.8176296353340149,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4372,
+            "true_label": 1,
+            "true_class": "automobile",
+            "predicted_label": 1,
+            "predicted_class": "automobile",
+            "confidence": 1.0,
+            "is_correct": true
+        },
+        {
+            "image_idx": 7711,
+            "true_label": 6,
+            "true_class": "frog",
+            "predicted_label": 2,
+            "predicted_class": "bird",
+            "confidence": 0.7830845713615417,
+            "is_correct": false
+        },
+        {
+            "image_idx": 2114,
+            "true_label": 2,
+            "true_class": "bird",
+            "predicted_label": 2,
+            "predicted_class": "bird",
+            "confidence": 0.6872372627258301,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2194,
+            "true_label": 8,
+            "true_class": "ship",
+            "predicted_label": 8,
+            "predicted_class": "ship",
+            "confidence": 1.0,
+            "is_correct": true
+        },
+        {
+            "image_idx": 7400,
+            "true_label": 3,
+            "true_class": "cat",
+            "predicted_label": 3,
+            "predicted_class": "cat",
+            "confidence": 0.5375732779502869,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4204,
+            "true_label": 2,
+            "true_class": "bird",
+            "predicted_label": 6,
+            "predicted_class": "frog",
+            "confidence": 0.9795297980308533,
+            "is_correct": false
+        },
+        {
+            "image_idx": 9337,
+            "true_label": 5,
+            "true_class": "dog",
+            "predicted_label": 3,
+            "predicted_class": "cat",
+            "confidence": 0.5864291191101074,
+            "is_correct": false
+        },
+        {
+            "image_idx": 9441,
+            "true_label": 4,
+            "true_class": "deer",
+            "predicted_label": 6,
+            "predicted_class": "frog",
+            "confidence": 0.5606510043144226,
+            "is_correct": false
+        },
+        {
+            "image_idx": 4838,
+            "true_label": 1,
+            "true_class": "automobile",
+            "predicted_label": 1,
+            "predicted_class": "automobile",
+            "confidence": 0.9999986886978149,
+            "is_correct": true
+        },
+        {
+            "image_idx": 3493,
+            "true_label": 0,
+            "true_class": "airplane",
+            "predicted_label": 0,
+            "predicted_class": "airplane",
+            "confidence": 0.9996225833892822,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5299,
+            "true_label": 7,
+            "true_class": "horse",
+            "predicted_label": 7,
+            "predicted_class": "horse",
+            "confidence": 0.9999990463256836,
+            "is_correct": true
+        },
+        {
+            "image_idx": 6281,
+            "true_label": 1,
+            "true_class": "automobile",
+            "predicted_label": 1,
+            "predicted_class": "automobile",
+            "confidence": 0.9998528957366943,
+            "is_correct": true
+        },
+        {
+            "image_idx": 4292,
+            "true_label": 1,
+            "true_class": "automobile",
+            "predicted_label": 1,
+            "predicted_class": "automobile",
+            "confidence": 1.0,
+            "is_correct": true
+        },
+        {
+            "image_idx": 217,
+            "true_label": 9,
+            "true_class": "truck",
+            "predicted_label": 9,
+            "predicted_class": "truck",
+            "confidence": 0.99997878074646,
+            "is_correct": true
+        },
+        {
+            "image_idx": 1533,
+            "true_label": 4,
+            "true_class": "deer",
+            "predicted_label": 4,
+            "predicted_class": "deer",
+            "confidence": 0.9917905330657959,
+            "is_correct": true
+        },
+        {
+            "image_idx": 9430,
+            "true_label": 6,
+            "true_class": "frog",
+            "predicted_label": 6,
+            "predicted_class": "frog",
+            "confidence": 0.9348609447479248,
+            "is_correct": true
+        },
+        {
+            "image_idx": 5670,
+            "true_label": 4,
+            "true_class": "deer",
+            "predicted_label": 4,
+            "predicted_class": "deer",
+            "confidence": 0.9677345752716064,
+            "is_correct": true
+        },
+        {
+            "image_idx": 9574,
+            "true_label": 4,
+            "true_class": "deer",
+            "predicted_label": 4,
+            "predicted_class": "deer",
+            "confidence": 0.9999980926513672,
+            "is_correct": true
+        },
+        {
+            "image_idx": 2716,
+            "true_label": 5,
+            "true_class": "dog",
+            "predicted_label": 3,
+            "predicted_class": "cat",
+            "confidence": 0.5822551250457764,
+            "is_correct": false
+        },
+        {
+            "image_idx": 7688,
+            "true_label": 8,
+            "true_class": "ship",
+            "predicted_label": 8,
+            "predicted_class": "ship",
+            "confidence": 0.9939435124397278,
+            "is_correct": true
+        }
+    ],
+    "timestamp": "2025-11-30T13:22:47.052190"
+}

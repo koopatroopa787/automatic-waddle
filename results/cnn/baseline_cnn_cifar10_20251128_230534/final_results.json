@@ -1,0 +1,8 @@
+{
+    "best_epoch": 32,
+    "best_val_acc": 80.48,
+    "test_loss": 0.7491026837587357,
+    "test_acc": 79.67,
+    "training_time_minutes": 39.10960520903269,
+    "config": {}
+}

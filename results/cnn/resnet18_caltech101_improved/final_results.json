@@ -1,0 +1,18 @@
+{
+    "model": "ResNet-18",
+    "dataset": "Caltech-101",
+    "best_val_acc": 92.84414796846573,
+    "best_epoch": 76,
+    "final_train_acc": 99.56013954193843,
+    "training_time_minutes": 53.089325273036955,
+    "total_epochs": 91,
+    "config": {
+        "num_classes": 101,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "epochs": 100,
+        "early_stopping_patience": 15,
+        "device": "cuda",
+        "num_workers": 0
+    }
+}

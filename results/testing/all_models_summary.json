@@ -1,0 +1,40 @@
+{
+    "comparison_summary": {
+        "timestamp": "2025-11-30T13:23:04.788608",
+        "models_tested": 4,
+        "models": {
+            "CNN CIFAR-10": {
+                "dataset": "CIFAR10",
+                "accuracy": 76.0,
+                "samples_tested": 50,
+                "correct": 38,
+                "incorrect": 12,
+                "avg_confidence": 90.79215759038925
+            },
+            "CNN Caltech-101": {
+                "dataset": "Subset",
+                "accuracy": 0.0,
+                "samples_tested": 50,
+                "correct": 0,
+                "incorrect": 50,
+                "avg_confidence": 45.49171005189419
+            },
+            "Traditional CV CIFAR-10": {
+                "dataset": "CIFAR10",
+                "accuracy": 24.0,
+                "samples_tested": 50,
+                "correct": 12,
+                "incorrect": 38,
+                "avg_features": 10.84
+            },
+            "Traditional CV Caltech-101": {
+                "dataset": "Caltech101",
+                "accuracy": 50.0,
+                "samples_tested": 50,
+                "correct": 25,
+                "incorrect": 25,
+                "avg_features": 190.8
+            }
+        }
+    }
+}

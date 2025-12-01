@@ -1,0 +1,11 @@
+{
+    "dataset": "CIFAR-10",
+    "feature_type": "SIFT",
+    "max_features_per_image": 200,
+    "vocab_size": 500,
+    "classifier_type": "LinearSVM",
+    "test_accuracy": 0.2717804926897657,
+    "training_time_minutes": 1.5023399790128071,
+    "n_train_samples": 49905,
+    "n_test_samples": 9986
+}

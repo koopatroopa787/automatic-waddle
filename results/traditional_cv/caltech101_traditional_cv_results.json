@@ -1,0 +1,12 @@
+{
+    "dataset": "Caltech-101",
+    "feature_type": "SIFT",
+    "max_features_per_image": 200,
+    "vocab_size": 500,
+    "classifier_type": "LinearSVM",
+    "test_accuracy": 0.39902971497877504,
+    "training_time_minutes": 1.67916286389033,
+    "n_train_samples": 6593,
+    "n_test_samples": 1649,
+    "n_classes": 101
+}
